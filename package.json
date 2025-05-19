@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@octokit/graphql": "^8.2.2",
+    "@octokit/rest": "^21.1.1"
+  }
+}
